@@ -92,3 +92,8 @@ console.log(newProduct)
 const chips =['mario','shaun','chun-li','yoshi','luigi']
 chips.sort()
 console.log(chips)
+
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
+}
